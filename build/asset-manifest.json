@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.86cc6752.css",
-    "main.js": "/static/js/main.97829aa0.js",
-    "static/js/787.c4e7f8f9.chunk.js": "/static/js/787.c4e7f8f9.chunk.js",
-    "index.html": "/index.html",
-    "main.86cc6752.css.map": "/static/css/main.86cc6752.css.map",
-    "main.97829aa0.js.map": "/static/js/main.97829aa0.js.map",
-    "787.c4e7f8f9.chunk.js.map": "/static/js/787.c4e7f8f9.chunk.js.map"
+    "main.css": "https://Sahvasharmid.github.io/FrontEndEcom/static/css/main.86cc6752.css",
+    "main.js": "https://Sahvasharmid.github.io/FrontEndEcom/static/js/main.f4a2ccb8.js",
+    "static/js/787.c4e7f8f9.chunk.js": "https://Sahvasharmid.github.io/FrontEndEcom/static/js/787.c4e7f8f9.chunk.js",
+    "index.html": "https://Sahvasharmid.github.io/FrontEndEcom/index.html",
+    "main.86cc6752.css.map": "https://Sahvasharmid.github.io/FrontEndEcom/static/css/main.86cc6752.css.map",
+    "main.f4a2ccb8.js.map": "https://Sahvasharmid.github.io/FrontEndEcom/static/js/main.f4a2ccb8.js.map",
+    "787.c4e7f8f9.chunk.js.map": "https://Sahvasharmid.github.io/FrontEndEcom/static/js/787.c4e7f8f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.86cc6752.css",
-    "static/js/main.97829aa0.js"
+    "static/js/main.f4a2ccb8.js"
   ]
 }
